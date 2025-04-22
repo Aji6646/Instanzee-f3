@@ -1,0 +1,16 @@
+streamlit==1.33.0
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.1.post1
+textblob==0.17.1
+plotly==5.20.0
+instaloader==4.11
+fpdf==1.7.2
+transformers==4.39.3
+torch==2.2.1
+emoji==2.11.0
+tqdm==4.66.2
+openai==1.23.0
+opencv-python-headless==4.9.0.80
+huggingface_hub==0.22.2
+hf_xet
